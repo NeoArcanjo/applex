@@ -1,0 +1,12 @@
+[submodule "WhiteSur-gtk-theme"]
+	path = WhiteSur-gtk-theme
+	url = https://github.com/vinceliuice/WhiteSur-gtk-theme.git
+[submodule "BigSur-icon-theme"]
+	path = BigSur-icon-theme
+	url = https://github.com/yeyushengfan258/BigSur-icon-theme.git
+[submodule "WhiteSur-icon-theme"]
+	path = WhiteSur-icon-theme
+	url = https://github.com/vinceliuice/WhiteSur-icon-theme.git
+[submodule "WhiteSur-cursors"]
+	path = WhiteSur-cursors
+	url = https://github.com/vinceliuice/WhiteSur-cursors.git
